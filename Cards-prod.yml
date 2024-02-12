@@ -1,0 +1,13 @@
+
+
+build:
+  version: 3.0
+
+cards:
+  message: "Welcome to BankApplication related PROD APIs"
+  contactDetails:
+    name: "Nayana Yadav - Product Owner"
+    email: "nayanayadav@gmail.com"
+  onCallSupport:
+    - (555) 777-1234
+    - (555) 777-1235

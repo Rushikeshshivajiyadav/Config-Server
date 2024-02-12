@@ -1,0 +1,12 @@
+
+build:
+  version: 1.0
+
+loans:
+  message: "Welcome to BankApplication related local APIs"
+  contactDetails:
+    name: "Rushikesh Yadav - Developer"
+    email: "rushikeshyadav@gmail.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 555-1235

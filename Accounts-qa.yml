@@ -1,0 +1,12 @@
+
+build:
+  version: 2.0
+
+accounts:
+  message: "Welcome to BankApplication related QA APIs"
+  contactDetails:
+    name: "Abhishek Yadav - QA Lead"
+    email: "abhishekyadav@gmail.com"
+  onCallSupport:
+    - (555) 666-1234
+    - (555) 666-1235
